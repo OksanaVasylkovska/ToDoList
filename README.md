@@ -1,5 +1,5 @@
 # TO Do LIST
-[image](https://https://github.com/OksanaVasylkovska/ToDoList.git)
+![](https://github.com/ToDoList/Demo_view.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
