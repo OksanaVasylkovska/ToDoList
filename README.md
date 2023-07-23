@@ -8,5 +8,18 @@
 This app was built using React.
 The app "TO Do LIST" will easily help you plan your day.
 
-## About the app.
+## About the app
+Used methods:
+- **onChang** the card or the card pile you want to move.
+  <p align="center">
+<img src="https://media.giphy.com/media/7OWdOQupgCClrZb19P/giphy.gif" width="80%"></p>
+
+- **onClick** the dragged card pile on the target and if the move is legal card will move
+  <p align="center">
+<img src="https://media.giphy.com/media/7OWdOQupgCClrZb19P/giphy.gif" width="80%"></p> 
+  
+- **onSubmit**
+   <p align="center">
+<img src="https://media.giphy.com/media/7OWdOQupgCClrZb19P/giphy.gif" width="80%"></p>
+
 
