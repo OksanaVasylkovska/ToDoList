@@ -2,7 +2,7 @@
 
 ![](https://github.com/OksanaVasylkovska/ToDoList/blob/main/src/Demo_view.gif)
 
-[#####**View a demo**](https://astounding-paletas-a5dcfe.netlify.app/)
+[#####View a demo](https://astounding-paletas-a5dcfe.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
