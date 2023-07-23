@@ -2,12 +2,14 @@
 
 ![](https://github.com/OksanaVasylkovska/ToDoList/blob/main/src/Demo_view.gif)
 
-#####[View a demo](https://astounding-paletas-a5dcfe.netlify.app/)
+<h2 align="center"><a  href="https://astounding-paletas-a5dcfe.netlify.app/">View a demo</a></h2>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+This app was built using React.
+The app "TO Do LIST" will easily help you plan your day.
 
 ## Available Scripts
-
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 In the project directory, you can run:
 
 ### `npm start`
