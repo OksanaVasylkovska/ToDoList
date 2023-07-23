@@ -5,21 +5,21 @@
 <h2 align="center"><a  href="https://astounding-paletas-a5dcfe.netlify.app/">View a demo</a></h2>
 
 ## Description
-This app was built using React.
+This app was built using React. Using a class component.
 The app "TO Do LIST" will easily help you plan your day.
 
 ## About the app
 Used methods:
-- **onChang** the card or the card pile you want to move.
+- **onChange** 
   <p align="center">
-<img src="https://media.giphy.com/media/7OWdOQupgCClrZb19P/giphy.gif" width="80%"></p>
+<img src="https://github.com/OksanaVasylkovska/ToDoList/blob/5794855189b99cabfd58062a3815de7c2e1a096f/src/onChange.png" width="80%"></p>
 
-- **onClick** the dragged card pile on the target and if the move is legal card will move
+- **onClick** 
   <p align="center">
-<img src="https://media.giphy.com/media/7OWdOQupgCClrZb19P/giphy.gif" width="80%"></p> 
+<img src="https://github.com/OksanaVasylkovska/ToDoList/blob/5794855189b99cabfd58062a3815de7c2e1a096f/src/onClick.png" width="80%"></p> 
   
 - **onSubmit**
    <p align="center">
-<img src="https://media.giphy.com/media/7OWdOQupgCClrZb19P/giphy.gif" width="80%"></p>
+<img src="https://github.com/OksanaVasylkovska/ToDoList/blob/5794855189b99cabfd58062a3815de7c2e1a096f/src/onFormSubmit.png" width="80%"></p>
 
 
